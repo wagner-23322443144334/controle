@@ -1,2 +1,2 @@
 # controle
-Sistema de controle de alunos 
+Sistema de controle 
